@@ -23,5 +23,5 @@ export default function SettingsScreen({ navigation }) {
 const styles = StyleSheet.create({
   container: { flex: 1, justifyContent: 'center', alignItems: 'center' },
   title: { fontSize: 20, marginBottom: 20 },
-  buttonContainer: { marginVertical: 5 }, // Espacio entre botones
+  buttonContainer: { marginVertical: 5 }, 
 });
